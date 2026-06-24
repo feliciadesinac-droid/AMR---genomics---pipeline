@@ -17,15 +17,16 @@ Fermentation microbiology and traditional African fermented foods
 
 
 Current Bioinformatics Skills
-Tool                             Purpose                              Status
-FastQC                Quality control of raw reads                  Competent
-Trimmomatic           Read trimming and filtering                   Competent
-SPAdes                Bacterial genome assembly                     Competent
-Prokka                Genome annotation                             In progress
-CARD/RGIAMR           gene detection                                In progress 
-RoaryPan-             genome analysis                               Learning 
-IQ-TREE               Phylogenomic reconstruction                   Learning
-R/ggplot2             Statistical analysis and visualization        Learning
+| Tool  | Purpose   | Status   |
+| ------| --------- | -------- |                      
+| FastQC  | Quality control of raw reads | Competent |
+| Trimmomatic | Read trimming and filtering  | Competent |
+| SPAdes | Bacterial genome assembly   | Competent|
+| Prokka | Genome annotation  | In progress |
+| CARD/RGI | AMR gene detection | In progress |
+| Roary  |Pan - genome analysis  | Learning |
+| IQ-TREE | Phylogenomic reconstruction | Learning |
+| R/ggplot2 | Statistical analysis and visualization | Learning |
 
 Active Projects
 🔬 ESBL Gram-Negative Comparative Genomics
