@@ -12,6 +12,7 @@ Resistance Mechanism in ESKAPE microbes
 ESBL and carbapenem resistance mechanisms in Gram-negative pathogens
 One Health AMR surveillance — human, animal, and environmental interfaces
 Genomic epidemiology of drug-resistant pathogens in West African settings
+
 African pathogen representation in global AMR genomics databases
 Fermentation microbiology and traditional African fermented foods
 
