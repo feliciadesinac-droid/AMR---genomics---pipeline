@@ -3,8 +3,8 @@ Microbiology Researcher | AMR Genomics | One Health | West African Pathogens
 📍 Pittsburgh, PA | 🇳🇬 Nigerian Research Context | 🇺🇸 US Work Authorized
 
 About Me
-I am an Associate Professor of Industrial Microbiology and Biotechnology at Lead City University, Ibadan, Nigeria, currently based in Pittsburgh, PA. My research focuses on the ecology and genomic epidemiology of ESBL-producing and carbapenem-resistant Gram-negative pathogens — principally Klebsiella pneumoniae and Escherichia coli — across clinical, agricultural, and community settings in West Africa, within a One Health surveillance framework.
-I am currently building computational skills in bacterial genomics to bring my Nigerian fieldwork data to comparative genomic analysis — genome assembly, annotation, AMR gene profiling, pan-genome analysis, and phylogenomics.
+I am an a senior researcher in Industrial Microbiology and Biotechnology at Lead City University, Ibadan, Nigeria, currently based in Pittsburgh, PA. My research focuses on the ecology and genomic epidemiology of ESBL-producing and carbapenem-resistant Gram-negative pathogens — principally Klebsiella pneumoniae and Escherichia coli — across clinical, agricultural, and community settings in West Africa, within a One Health surveillance framework.
+I am actively applying computational tools in bacterial genomics: genome assembly, annotation, AMR gene profiling, and metagenomic community profiling to bring West African pathogen data into comparative and translational analysis.
 
 Research Interests
 
@@ -33,6 +33,9 @@ Active Projects
 🔬 ESBL Gram-Negative Comparative Genomics
 
 Assembling, annotating, and characterizing resistance gene profiles of ESBL-producing K. pneumoniae and E. coli from publicly available West African datasets on NCBI SRA. Building toward comparative analysis against globally dominant lineages including ST131.
+
+Metagenomic Profiling of African Fermented Foods
+Shotgun metagenomic characterization of fermented maize gruel (ogi) fortified with lima bean flour, investigating LAB mediated microbial community dynamics and functional gene profiles. Findings presented at ASM Microbe 2026, Washington D.C. (Poster AEM-SAT-685).
 
 Publications
 27+ peer-reviewed publications in microbiology, AMR, and fermentation science.
